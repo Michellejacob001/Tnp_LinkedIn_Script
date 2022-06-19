@@ -11,6 +11,7 @@ Linkedin = {
     totalRequestsSent: 0,
     // set to false to skip adding note in invites
     addNote: true,
+   //te: "Hey {{name}}, we at Training & Placement Cell, MACE are looking forward to connecting with you! We have a pool of fresh talent and are inviting you to take a look
     note: "Hey {{name}}, we at Training & Placement Cell, MACE are looking forward to connecting with you!",
   },
   init: function (data, config) {
